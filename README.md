@@ -1,12 +1,12 @@
-## Eaeee! Eu sou o Rafael Almeida
+<h2>Hi <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
-- 💎 Learning Java Script, React, NodeJS e MongoDB
 
- <div style = "display: inline">
+ <div>
   <a href="https://github.com/rafaalmeida1">
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=rafaalmeida1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rafaalmeida1&layout=compact&langs_count=7&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaalmeida1&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaalmeida1&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
+ <hr>
 <div style = "display: inline_block"> <br>
   
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
