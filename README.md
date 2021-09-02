@@ -1,6 +1,6 @@
 ## Eaeee! Eu sou o Rafael Almeida
 
-- 💎 Estudando Java Script, React, NodeJS e MongoDB
+- 💎 Learning Java Script, React, NodeJS e MongoDB
 
  <div style = "display: inline">
   <a href="https://github.com/rafaalmeida1">
