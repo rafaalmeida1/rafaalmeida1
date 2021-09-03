@@ -1,13 +1,12 @@
 <h2>Hi <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
 
- <div>
-  <a href="https://github.com/rafaalmeida1">
-  <img width="460em" height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaalmeida1&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaalmeida1&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+ <div align="center" >
+
+[![Rafael Almeida's github stats](https://github-readme-stats.vercel.app/api?username=rafaalmeida1&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaalmeida1&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
 </div>
   <hr>
- 
  
  
 <div style = "display: inline_block"> <br>
