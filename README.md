@@ -1,4 +1,4 @@
-<h2>Hi <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h2>Hi</h2>
 
 
  <div align="center" >
