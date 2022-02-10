@@ -11,7 +11,7 @@
   <hr> 
 <div>
  <a href="https://github-readme-stats.vercel.app/api/wakatime?username=rafaalmeida1%22%3E">
-     <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=rafaalmeida1&layout=compact&text_color=72e8af&bg_color=193549" />
+     <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=rafaalmeida1&layout=compact&title_color=fff&text_color=fff&icon_color=79ff97&bg_color=0d0d0d" />
  </a>
 </div>
 
