@@ -13,7 +13,6 @@
  <a href="https://github-readme-stats.vercel.app/api/wakatime?username=rafaalmeida1%22%3E">
      <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=rafaalmeida1&layout=compact&text_color=72e8af&bg_color=193549" />
  </a>
- <a href="https://wakatime.com"><img width="331" height="250" src="https://wakatime.com/share/@rafaalmeida1/3a9a81dc-deb1-4b8e-9f1c-8c2115c7ef36.png" /></a>
 </div>
 
 <div style = "display: inline_block"> <br>
