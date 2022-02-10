@@ -9,12 +9,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaalmeida1&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
 </div>
   <hr> 
-<a href="https://github-readme-stats.vercel.app/api/wakatime?username=rafaalmeida1%22%3E">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=rafaalmeida1&layout=compact&text_color=72e8af&bg_color=193549" />
+<div>
+ <a href="https://github-readme-stats.vercel.app/api/wakatime?username=rafaalmeida1%22%3E">
+     <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=rafaalmeida1&layout=compact&text_color=72e8af&bg_color=193549" />
+ </a>
  <a href="https://wakatime.com"><img width="331" height="250" src="https://wakatime.com/share/@rafaalmeida1/3a9a81dc-deb1-4b8e-9f1c-8c2115c7ef36.png" /></a>
-</a>
- 
- 
+</div>
+
 <div style = "display: inline_block"> <br>
   
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
