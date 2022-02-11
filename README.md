@@ -5,7 +5,7 @@
  <div style = "display: inline_block"> <br>
   <img width ="100px" align = "left" alt = "Rafa-yoda" src = "https://c.tenor.com/zKFhQIIppYYAAAAi/rick-rick-and-morty.gif">
  </div>
- <img width ="350px" align = "right" alt = "Rafa-yoda" src = "https://c.tenor.com/H2mK_NOHBh8AAAAi/rick-and.gif">
+ <img width ="250px" align = "right" alt = "Rafa-yoda" src = "https://c.tenor.com/H2mK_NOHBh8AAAAi/rick-and.gif">
 
 [![Rafael Almeida's github stats](https://github-readme-stats.vercel.app/api?username=rafaalmeida1&show_icons=true&layout=compact&title_color=fff&text_color=fff&icon_color=79ff97&bg_color=0d0d0d)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaalmeida1&layout=compact&title_color=fff&text_color=fff&icon_color=79ff97&bg_color=0d0d0d)](https://github.com/anuraghazra/github-readme-stats)
