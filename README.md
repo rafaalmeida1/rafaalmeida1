@@ -8,13 +8,12 @@
 [![Rafael Almeida's github stats](https://github-readme-stats.vercel.app/api?username=rafaalmeida1&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97&width=400px)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaalmeida1&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-  <hr> 
 <div>
  <a href="https://github-readme-stats.vercel.app/api/wakatime?username=rafaalmeida1%22%3E">
-     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=rafaalmeida1&layout=compact&title_color=fff&text_color=fff&icon_color=79ff97&bg_color=0d0d0d" />
+     <img "align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=rafaalmeida1&layout=compact&title_color=fff&text_color=fff&icon_color=79ff97&bg_color=0d0d0d" />
  </a>
 </div>
-
+ <hr> 
 <div style = "display: inline_block"> <br>
   
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
