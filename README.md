@@ -29,7 +29,7 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
  <hr>
- <a href="https://instagram.com/rafa_aipapai" target="_blank"> <img width = "100px"src = "https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- emblema & logo = instagram & logoColor = white "target =" _ blank "> </a>
+ <a href="https://instagram.com/rafa_aipapai" target="_blank"> <img width = "100px"src = "https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- emblema & logo = instagram & logoColor = white "target =" _ blank "></a>
  <a href="https://www.beecrowd.com.br/judge/pt/profile/623222"><img width="50" height="30" src="https://user-images.githubusercontent.com/71566094/153079503-56b4352f-a69e-41ff-ac60-b0c6505e1f94.png" target="_blank"></a>
  <a href="https://www.linkedin.com/in/rafael-henrique-silva-de-almeida-a396bb22b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <div>
