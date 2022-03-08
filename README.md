@@ -3,7 +3,7 @@
 
  <div align="center" >
  <div style = "display: inline_block"> <br>
-  <img width ="101px" align = "left" alt = "Rafa-yoda" src = "https://c.tenor.com/zKFhQIIppYYAAAAi/rick-rick-and-morty.gif">
+  <img width ="100px" align = "left" alt = "Rafa-yoda" src = "https://c.tenor.com/zKFhQIIppYYAAAAi/rick-rick-and-morty.gif">
  </div>
  <img width ="200px" align = "right" alt = "Rafa-yoda" src = "https://c.tenor.com/H2mK_NOHBh8AAAAi/rick-and.gif">
 
