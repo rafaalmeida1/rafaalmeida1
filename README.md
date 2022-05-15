@@ -2,7 +2,13 @@
 
 
  <div align="left" >
- <img width ="150px" align = "right" alt = "Rafa-yoda" src = "https://c.tenor.com/LGOdeq4X6A4AAAAC/anonymous-pepe.gif">
+ <h2>Techs</h2>
+ <ul>
+  <li>ReactJS</li>
+  <li>React Native</li>
+  <li>Node.JS</li>
+  <li>MongoDB</li>
+ </ul>
 
 [![Rafael Almeida's github stats](https://github-readme-stats.vercel.app/api?username=rafaalmeida1&show_icons=true&layout=compact&title_color=fff&text_color=fff&icon_color=79ff97&bg_color=0d0d0d)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaalmeida1&layout=compact&title_color=fff&text_color=fff&icon_color=79ff97&bg_color=0d0d0d)](https://github.com/anuraghazra/github-readme-stats)
