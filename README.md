@@ -2,8 +2,8 @@
 
 
  <div align="left" >
- <h2>Techs</h2>
  <ul>
+  <h2>Techs</h2>
   <li>ReactJS</li>
   <li>React Native</li>
   <li>Node.JS</li>
