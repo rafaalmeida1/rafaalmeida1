@@ -3,7 +3,7 @@
 
  <div align="left" >
  <ul>
-  <h2>Techs</h2>
+  <h2>Tech's</h2>
   <li>ReactJS</li>
   <li>React Native</li>
   <li>Node.JS</li>
