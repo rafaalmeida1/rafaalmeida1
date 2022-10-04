@@ -10,9 +10,9 @@
   <li>MongoDB</li>
  </ul>
 
-[![Rafael Almeida's github stats](https://github-readme-stats.vercel.app/api?username=rafaalmeida1&show_icons=true&layout=compact&title_color=fff&text_color=fff&icon_color=79ff97&bg_color=0d0d0d)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Rafael Almeida's github stats](https://github-readme-stats.vercel.app/api?username=rafaalmeida1&show_icons=true&layout=compact&title_color=fff&text_color=fff&icon_color=79ff97&bg_color=0d0d0d)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaalmeida1&layout=compact&title_color=fff&text_color=fff&icon_color=79ff97&bg_color=0d0d0d)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+</div> -->
 
  <hr> 
 
