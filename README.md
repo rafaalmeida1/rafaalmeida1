@@ -10,9 +10,9 @@
   <li>MongoDB</li>
  </ul>
 
-<!-- [![Rafael Almeida's github stats](https://github-readme-stats.vercel.app/api?username=rafaalmeida1&show_icons=true&layout=compact&title_color=fff&text_color=fff&icon_color=79ff97&bg_color=0d0d0d)](https://github.com/anuraghazra/github-readme-stats)
+[![Rafael Almeida's github stats](https://github-readme-stats.vercel.app/api?username=rafaalmeida1&show_icons=true&layout=compact&title_color=fff&text_color=fff&icon_color=79ff97&bg_color=0d0d0d)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaalmeida1&layout=compact&title_color=fff&text_color=fff&icon_color=79ff97&bg_color=0d0d0d)](https://github.com/anuraghazra/github-readme-stats)
-</div> -->
+</div>
 
  <hr> 
 
@@ -25,7 +25,7 @@
 </div> 
  
 <div style = "display: inline_block"> <br>
-  <img align="center" alt="Rafa-Js" height="31" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/csharp/csharp-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
