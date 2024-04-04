@@ -1,4 +1,5 @@
-<h2>Olá! Eu sou Rafael Almeida. Atualmente Desenvolvedor Fullstack Web Pleno</h2>
+<h2>Olá! Eu sou Rafael Almeida.</h2>
+<p>Atualmente Desenvolvedor Fullstack Web Pleno</p>
 
 <div align="left">
   <h2>Tech's</h2>
